@@ -1,6 +1,5 @@
-# My Portfolio
-Welcome to my portfolio.
-With this I collected some projects to manifest my knowledge.
+# Web Dev Project Collection
+This is a collection of Projects I wanted to do to learn.
 All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Projects
