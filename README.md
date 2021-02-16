@@ -25,13 +25,14 @@ This is a collection of Projects I wanted to do to learn.
 📋 - [Realtime Chat App Part 1](https://youtu.be/rxzOqP9YwmM) <br/>
 📋 - [Realtime Chat App Part 2](https://youtu.be/UymGJnv-WsE)
 
-## [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-📋 - [Build a Blog With Next.js & Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)
-📋 - [Build a Portfolio Website With React & Sanity.io](https://www.youtube.com/watch?v=NO7_jgzVgbc)
-📋 - [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)
-📋 - [Realtime Chat App with React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
-📋 - [Multiplayer Snake Game with JavaScript & Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs)
-📋 - [Build a Portfolio Website & Deploy](https://www.youtube.com/watch?v=r_hYR53r61M)
+## [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)<br/>
+📋 - [Build a Blog With Next.js & Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)<br/>
+📋 - [Build a Portfolio Website With React & Sanity.io](https://www.youtube.com/watch?v=NO7_jgzVgbc)<br/>
+📋 - [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)<br/>
+📋 - [Realtime Chat App with React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)<br/>
+📋 - [Multiplayer Snake Game with JavaScript & Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs)<br/>
+📋 - [Build a Portfolio Website & Deploy](https://www.youtube.com/watch?v=r_hYR53r61M)<br/>
+<br/>
 ____________________________________________________
 ✅ - done <br/>
 🛠️ - work in progress <br/>
