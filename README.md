@@ -4,6 +4,7 @@ With this I collected some projects to manifest my knowledge.
 All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Projects
+These are the Projects ranked by difficulty. All have linked tutorial.
 ## Easy
 [Basic Node.js Server](https://youtu.be/VShtPwEkDD0) <br/>
 [Basic REST API](https://youtu.be/fgTGADljAeg) <br/>
@@ -24,5 +25,3 @@ All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://ww
 [Markdown Blog](https://youtu.be/1NrHkjlWVhM) <br/>
 [Realtime Chat App Part 1](https://youtu.be/rxzOqP9YwmM) <br/>
 [Realtime Chat App Part 2](https://youtu.be/UymGJnv-WsE)
-
-
