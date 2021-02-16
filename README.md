@@ -6,11 +6,19 @@ All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://ww
 # Projects
 ## Easy
 [Basic Node.js Server](https://youtu.be/VShtPwEkDD0)
+
+
 [Basic REST API](https://youtu.be/fgTGADljAeg)
+
+
 [URL Shortener](https://youtu.be/SLpUKAGnm-g)
+
 [Paginated API](https://youtu.be/ZX3qt0UWifc)
+
 [Discord Bot](https://youtu.be/qv24S2L1N0k)
+
 [Basic Chrome Extension](https://youtu.be/rymG9UmPuhM)
+
 
 ## Medium
 [Amazon Web Scraper](https://youtu.be/H5ObmDUjKV4)
