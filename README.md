@@ -3,7 +3,7 @@ This is a collection of Projects I wanted to do to learn.
 All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Projects
-These are the Projects ranked by difficulty. All have linked tutorial.
+These are the Projects ranked by difficulty. All have a linked tutorial.
 ## Easy
 📋 - [Basic Node.js Server](https://youtu.be/VShtPwEkDD0) <br/>
 📋 - [Basic REST API](https://youtu.be/fgTGADljAeg) <br/>
