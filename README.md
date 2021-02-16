@@ -1,5 +1,6 @@
 # Web Dev Project Collection
-This is a collection of Projects I wanted to do to learn.
+This is a collection of web development projects.
+I plan to do all of these to improve my knowledge and skills.
 
 # Projects
 
