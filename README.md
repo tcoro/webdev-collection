@@ -1,9 +1,9 @@
 # Web Dev Project Collection
 This is a collection of Projects I wanted to do to learn.
-All of these Projects were taken from [WebDevSimplified Roadmap 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Projects
-These are the Projects ranked by difficulty. All have a linked tutorial.
+
+# [WebDevSimplified Roadmap 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 ## Easy
 📋 - [Basic Node.js Server](https://youtu.be/VShtPwEkDD0) <br/>
 📋 - [Basic REST API](https://youtu.be/fgTGADljAeg) <br/>
@@ -25,7 +25,14 @@ These are the Projects ranked by difficulty. All have a linked tutorial.
 📋 - [Realtime Chat App Part 1](https://youtu.be/rxzOqP9YwmM) <br/>
 📋 - [Realtime Chat App Part 2](https://youtu.be/UymGJnv-WsE)
 
-## Legend
+## [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+📋 - [Build a Blog With Next.js & Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)
+📋 - [Build a Portfolio Website With React & Sanity.io](https://www.youtube.com/watch?v=NO7_jgzVgbc)
+📋 - [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)
+📋 - [Realtime Chat App with React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
+📋 - [Multiplayer Snake Game with JavaScript & Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs)
+📋 - [Build a Portfolio Website & Deploy](https://www.youtube.com/watch?v=r_hYR53r61M)
+____________________________________________________
 ✅ - done <br/>
 🛠️ - work in progress <br/>
 📋 - planned <br/>
